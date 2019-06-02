@@ -6,6 +6,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DerAtrox/LevelPony.git"
+ },
+	"engines": {
+		"node": ">=8"
   },
   "author": "DerAtrox",
   "license": "MIT",
