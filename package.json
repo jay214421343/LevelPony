@@ -8,7 +8,7 @@
     "url": "git+https://github.com/DerAtrox/LevelPony.git"
  },
 	"engines": {
-		"node": ">=8"
+		"node": "8.0.0"
   },
   "author": "DerAtrox",
   "license": "MIT",
