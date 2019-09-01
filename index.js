@@ -40,7 +40,7 @@ client.on('guildCreate', async (guild) => {
 
     const embed = new MessageEmbed({
         author: {
-            name: "Hello, I'm Level Pony!",
+            name: "Hello, I'm Tanjiro!",
             iconURL: client.user.displayAvatarURL()
         },
         description: `You've just added me to **${guild.name}**.\n\nHere is some information about myself:\n\n${await PonyUtils.getHelpText(guild)}`,
